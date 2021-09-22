@@ -2,4 +2,12 @@
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
+    <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
+    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
