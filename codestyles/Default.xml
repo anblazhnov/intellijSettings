@@ -2,7 +2,4 @@
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
   </JavaCodeStyleSettings>
-  <codeStyleSettings language="JAVA">
-    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
-  </codeStyleSettings>
 </code_scheme>
