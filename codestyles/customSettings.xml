@@ -1,0 +1,7 @@
+<code_scheme name="customSettings" version="173">
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
+    <option name="SPACE_AROUND_BITWISE_OPERATORS" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_LBRACE" value="false" />
+  </codeStyleSettings>
+</code_scheme>
