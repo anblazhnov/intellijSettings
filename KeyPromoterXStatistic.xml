@@ -166,7 +166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -326,7 +326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PaymentServiceImplTest.payServiceBasket'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Test'">
