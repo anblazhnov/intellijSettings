@@ -3,131 +3,63 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-user-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.callcenter.api.new/callcenter-account-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru" />
-          <option name="userName" value="ablazhnov" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/smarthouse-adapter/-/tree/develop" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.callcenter.api.new/callcenter-services-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/smarthouse-adapter" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/tricolor-version-rules" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/callcenter-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/AbonentUnionService" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.callcenter.api.new/callcenter-cases-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.callcenter.api.new/callcenter-auth-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/soap-client-crm" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.callcenter.api.new/callcenter-errors" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-drm-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/error-management-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-auth-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor/mocks/esb-mock" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/tricolorid-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-billing-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-common-api" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/ott" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.mobile.api.new/mobile-errors" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/notification-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/cc-adapter" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.i.dealer/dealer-billing-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.microservices/sap-rfc-proxy" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/ci-adapter" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apache/cxf/tree/master/distribution/src/main/release/samples/java_first_jaxws" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/MassOperation" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/bsproxy" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.contract/esb-subscriber.search-client" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/subscriber-search" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/abonentOrch" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/billing" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/esb-common-libs" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-user-api" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/soap-crm-adapter" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/selfcareadapter" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/selfcare" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.contract/selfcare-abonent-client" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-cases-api" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-billing-api" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-auth-api" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/payment" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor.pay.gate/payments2" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.iflex.ru/tricolor/resource-check-maven-plugin" />
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.service-activator/sa-core" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -135,17 +67,6 @@
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
