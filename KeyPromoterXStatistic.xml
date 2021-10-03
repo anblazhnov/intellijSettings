@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>539</Count>
+          <Count>541</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -247,6 +247,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'BillingServiceImplTest.getPromoServices'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Controller'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Controller'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PaymentServiceImplTest.getPaymentSystemList'">
@@ -399,6 +407,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CRMAbonentClientImplTest.getUserInfoFromCrm'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Controller'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Controller'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EsbMappingClientImplTest.getEntityMapping_ABONENT_NOT_FOUND'">
