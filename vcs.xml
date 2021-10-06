@@ -54,6 +54,26 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/ci-adapter" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/MassOperation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.service-activator/sa-core" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor/swagger-ui" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor/doc-generator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-common-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
