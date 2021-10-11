@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>746</Count>
+          <Count>750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>43</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -374,7 +374,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -670,7 +670,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>127</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>108</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
