@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>845</Count>
+          <Count>848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
