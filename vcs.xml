@@ -110,6 +110,10 @@
           <option name="url" value="http://gitlab.iflex.ru" />
           <option name="userName" value="ablazhnov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/logger" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
