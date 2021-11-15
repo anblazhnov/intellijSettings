@@ -122,6 +122,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/marketing-campaign" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/fiscalReceiptAdapter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
