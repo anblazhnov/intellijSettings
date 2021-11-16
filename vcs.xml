@@ -130,6 +130,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/fiscal-check" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.i.dealer/dealer-orch-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
