@@ -154,6 +154,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.selfcare.api.new/selfcare-campaign-api" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.actual.java/campaign" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
