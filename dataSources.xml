@@ -20,7 +20,7 @@
       <jdbc-url>jdbc:sqlserver://192.168.191.47;databaseName=GSCRSDB</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="7379fc9a-1abf-4b08-b85c-d29300fc77ec">
+    <data-source source="LOCAL" name="dev3" uuid="7379fc9a-1abf-4b08-b85c-d29300fc77ec">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
