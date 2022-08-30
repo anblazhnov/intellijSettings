@@ -242,6 +242,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.microservices/voucher/voucher-msa/voucher" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.microservices/voucher/voucher-msa/voucher-reseller" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
