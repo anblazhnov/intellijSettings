@@ -254,6 +254,10 @@
           <option name="url" value="https://github.com/sergeyevd/spring-kafka-streams-sample" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Vellarasan/kafka-basic-consumer" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
