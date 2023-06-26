@@ -16,7 +16,7 @@
           <option name="name" value="Kafka connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="-1" />
-          <option name="uri" value="localhost:29092" />
+          <option name="uri" value="localhost:9092" />
         </ExtendedConnectionData>
       </list>
     </option>
