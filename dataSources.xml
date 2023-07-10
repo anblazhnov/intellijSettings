@@ -27,5 +27,12 @@
       <jdbc-url>jdbc:sqlserver://localhost:1433</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="postgres@10.53.53.160" uuid="d7916c32-b973-4b89-9cb8-479b8b108065">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.53.53.160:5432/postgres?currentSchema=dev</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
