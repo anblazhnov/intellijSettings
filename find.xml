@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.bpmn" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -13,5 +14,6 @@
     <mask>*.java</mask>
     <mask>*.wsdl</mask>
     <mask>*.xml</mask>
+    <mask>*.bpmn</mask>
   </component>
 </application>
