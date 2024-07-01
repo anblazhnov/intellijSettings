@@ -370,6 +370,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor/kafka/sap-ss-mapper" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor/kafka/customer-mapper" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
