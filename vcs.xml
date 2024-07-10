@@ -394,6 +394,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.service-activator/adapter-start" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.i.dealer/dealer-application-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
