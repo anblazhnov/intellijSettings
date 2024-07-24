@@ -62,5 +62,12 @@
       <jdbc-url>jdbc:sqlserver://cp-db-cc-01.cur.local:1433;database=CPP</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="CRM_LOCAL" uuid="aca276d5-9325-4e6b-84a3-6bd59fbd4d7d">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
