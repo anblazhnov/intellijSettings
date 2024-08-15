@@ -462,6 +462,10 @@
           <option name="url" value="https://gitlab.tricolor.tv/kubernetes/charts/inmemory/mapper-bundledproduct" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.tricolor.ru/kube-systems/inmemory-pilot/mapper" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
