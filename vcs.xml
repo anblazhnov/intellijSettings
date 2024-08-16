@@ -474,6 +474,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.microservices/voucher/voucher-msa/voucher-journal" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.service-activator/adapter-cas-rest" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
