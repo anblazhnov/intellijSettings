@@ -486,6 +486,10 @@
           <option name="url" value="http://gitlab.iflex.ru/tricolor.esb.service-activator/adapter-drm" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.tricolor.tv/kubernetes/helmfile/iflex-k8s-deploy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrey\IdeaProjects" />
